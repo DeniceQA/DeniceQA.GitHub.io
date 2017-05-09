@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/DeniceQA/DeniceQA.GitHub.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-This is the first change to my page 
+This is the first change to my page - blah blah
 
 ### Markdown
 
